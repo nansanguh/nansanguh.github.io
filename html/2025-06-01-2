@@ -1,0 +1,13 @@
+<!-- html의 기본 형식에 대하여...-->
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <title>HTML 형식</title>
+</head>
+<body>
+  <h1>안녕, HTML!</h1>
+  <p>이건 내 첫 웹 페이지야.</p>
+</body>
+</html>
